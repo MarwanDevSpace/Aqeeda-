@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/MarwanDevSpace/Aqeeda/refs/heads/main/icon.png" width="150" alt="عقيدة+ Icon" />
+
 # عقيدة+ | Aqeeda Plus
 
 ### منصة طلاب قسم العقيدة والفكر الإسلامي
